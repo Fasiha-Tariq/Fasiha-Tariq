@@ -13,7 +13,7 @@ I am currently working on my semester projects, focusing on building and improvi
 * **UI Design:** Figma (basic UI/UX design)
 
 #Contact
-* GitHub: [Your GitHub Profile Link](https://github.com/Fasiha-Tariq)
+* GitHub: https://github.com/Fasiha-Tariq
 * LinkedIn: www.linkedin.com/in/fasiha-tariq-0a4038378
 * Email: fasihatariq03@gmail.com
 * 
